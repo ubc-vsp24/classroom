@@ -11,15 +11,15 @@ You will find lecture materials and assignments for the courses:
 
 ## Discussions
 
-We will use a [**Slack** workspace]() for all discussions related to this VSP package.
+We will use a [**Slack** workspace](https://ubc-vsp24.slack.com) for all discussions related to this VSP package.
 
 _Use this Slack workspace to ask and answer questions about lectures, assignment, and anything related to the courses._
 
-* Follow [this link]() to join the Slack workspace.
+* Follow [this link](https://join.slack.com/t/ubc-vsp24/shared_invite/zt-2mqoin44l-KympLxrwKI_RxUwT2XPs6g) to join the Slack workspace.
 
 ## Schedule
 
-The [schedule is on Google Calendar](). You can find the schedule for class meetings as well as important dates (when assignments are released, when they are due, as well as dates for quizzes/exams).
+The [schedule is on Google Calendar](https://calendar.google.com/calendar/embed?src=1d0ca073ae4fc9f06da8416b90b7abbc92b390b9bda93ab5010cbdee556ef116%40group.calendar.google.com&ctz=America%2FVancouver). You can find the schedule for class meetings as well as important dates (when assignments are released, when they are due, as well as dates for quizzes/exams).
 
 In the calendar, **KP** is for sessions related to Prof. Pattabiraman's course on web applications and **SG** is for sessions related to Prof. Gopalakrishnan's course on algorithms.
 
