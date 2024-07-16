@@ -6,7 +6,7 @@
 
 You will find lecture materials and assignments for the courses:
 
-* [Algorithms](/gargi-sathish) - taught by Sathish Gopalakrishnan
+* [Algorithms](/gargi-sathish) - taught by Sathish Gopalakrishnan and Gargi Mitra
 * [Building Modern Web Applications](/karthik) - taught by Karthik Pattabiraman
 
 ## Discussions
