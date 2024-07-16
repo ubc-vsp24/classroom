@@ -1,7 +1,7 @@
 # Building Modern Web Applications
 
 * [Lectures](./lectures) - for lecture slides and notes
-    1. [Introduction](./lectures/)
+    1. [Introduction](./lectures/lecture0.pdf)
     2. [HTTP, HTML, and CSS](./lectures/)
     3. [JavaScript Basics](./lectures/)
     4. [Callback and Closure](./lectures/)
