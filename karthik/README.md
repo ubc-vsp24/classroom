@@ -15,7 +15,7 @@
     12. [Review](./lectures/)
 * [Tutorials](./tutorials) - additional tutorials that might be useful
     * [Setting up Git](./tutorials/git-setup.md)
-* [Assignment Group Registration]() - submit your groups here
+* [Assignment Group Registration](https://forms.gle/89FST5ZZXqrcUZHfA) - submit your groups here
 * [Assignments](./assignments) - assignments will be released here
     1. [Assignment 1](./assignments/) - Due 11:59PM Friday, July 19, 2024
     2. [Assignment 2](./assignments/) - Due 11:59PM Wednesday, July 24, 2024
