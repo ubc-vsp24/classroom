@@ -3,14 +3,15 @@ function makeCounters(n) {
 	var counters = [];
 	for (var i=0; i<n; i++) {
 		counts[i] = 0;
-		counters[i] = function {
+		counters[i] = function() {
 			counts[i]++;
 			return counts[i];
 		}
 	};
+	return counters;
 }
 
 var cs = makeCounters(10);
-console.log( cs[0] );
-console.log( cs[4] );
+console.log( cs[0]() );
+console.log( cs[4]() );
 
