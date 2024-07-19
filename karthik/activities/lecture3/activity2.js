@@ -6,8 +6,8 @@ function whenBothFinish (fn1, fn2, callback){
 };
 
 whenBothFinish(
-   function(){ console.log(“fn1 finished!”); }, 
-   function(){ console.log(“fn2 finished!”); }, 
-   function(){ console.log(“Both functions finished!”); }
+   function(){ console.log("fn1 finished!"); }, 
+   function(){ console.log("fn2 finished!;"); }, 
+   function(){ console.log("Both functions finished!"); }
 );
 
