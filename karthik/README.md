@@ -3,8 +3,8 @@
 * [Lectures](./lectures) - for lecture slides and notes
     1. [Introduction](./lectures/lecture0.pdf)
     2. [HTTP, HTML, and CSS](./lectures/lecture1.pdf)
-    3. [JavaScript Basics](./lectures/)
-    4. [Callback and Closure](./lectures/)
+    3. [JavaScript Basics](./lectures/lecture2.pdf)
+    4. [Callback and Closure](./lectures/lecture3.pdf)
     5. [DOM and Events (Part 1)](./lectures/)
     6. [DOM and Events (Part 2)](./lectures/)
     7. [AJAX and REST API](./lectures/)
