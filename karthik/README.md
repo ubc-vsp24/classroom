@@ -19,5 +19,5 @@
 * [Assignments](./assignments) - assignments will be released here
     1. [Assignment 1](./assignments/assignment-1) - Due 11:59PM Friday, July 19, 2024
     2. [Assignment 2](./assignments/assignment-2) - Due 11:59PM Wednesday, July 24, 2024
-    3. [Assignment 3](./assignments/) - Due 11:59PM Tuesday, July 30, 2024
+    3. [Assignment 3](./assignments/assignment-3) - Due 11:59PM Tuesday, July 30, 2024
     4. [Assignment 4](./assignments/) - Due 11:59PM Friday, August 2, 2024
