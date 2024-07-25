@@ -7,7 +7,7 @@
     4. [Callback and Closure](./lectures/lecture3.pdf)
     5. [DOM and Events (Part 1)](./lectures/lecture4.pdf)
     6. [DOM and Events (Part 2)](./lectures/lecture5.pdf)
-    7. [AJAX and REST API](./lectures/)
+    7. [AJAX and REST API](./lectures/lecture6.pdf)
     8. [ECMAScript 2015 (ES6)](./lectures/)
     9. [Promise](./lectures/)
     10. [Session and Cookie](./lectures/)
