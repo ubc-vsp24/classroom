@@ -12,11 +12,11 @@ PORT = 8080	# Port to connect to
 
 # Begin configuration - change these parameters for the server to have interesting behaviors
 
-delay = True		# Should there be a delay ?
-minDelay = 0 		# if so, the minimum delay in seconds
-maxDelay = 3 		# if so, the maximum delay in seconds
-introduceError = False 	# Should we have the server returning an error
-errorProb = 0.50	# If so, with what probability should we introduce errors
+delay = True		        # Should there be a delay ?
+minDelay = 0 		        # if so, the minimum delay in seconds
+maxDelay = 2 		        # if so, the maximum delay in seconds
+introduceError = False 	    # Should we have the server returning an error
+errorProb = 0.5	            # If so, with what probability should we introduce errors
 
 # End of configuration - change the code below only if you know what you're doing
 
@@ -27,6 +27,7 @@ class MyRequestHandler(BaseHTTPRequestHandler):
         if self.path.startswith('/hello'):
             # If it's an AJAX request - send a response
             print("Received hello request");
+
             success = True
             if introduceError: # Introduce an error with a probability if introduceError is True
                 success = (random.random() >= errorProb)
