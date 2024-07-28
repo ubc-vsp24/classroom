@@ -9,7 +9,7 @@
     6. [DOM and Events (Part 2)](./lectures/lecture5.pdf)
     7. [AJAX and REST API](./lectures/lecture6.pdf)
     8. [ECMAScript 2015 (ES6)](./lectures/lecture7.pdf)
-    9. [Promise](./lectures/)
+    9. [Promise](./lectures/lecture8.pdf)
     10. [Session and Cookie](./lectures/)
     11. [Node.js](./lectures/)
     12. [Review](./lectures/)
