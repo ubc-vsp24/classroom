@@ -3,7 +3,7 @@
 
 window.onload = function() {
 	var inflight = [];	// Array to keep all the XMLHttpRequests
-	var count = 0;		// Just keeping count of how many requests are made
+	var c = 0;		// Just keeping count of how many requests are made
 
 	// helper function for removing the request from the inflight array
 	// will be called in the XMLHttpRequest event handlers
@@ -69,8 +69,8 @@ window.onload = function() {
 	// Find the buttons from the DOM and attach listeners
 	var ok = document.getElementById("OK");
 	ok.addEventListener("click", function() {
-		sendRequest("hello", count);
-		count += 1;
+		sendRequest("hello", c);
+		c += 1;
 	}, false);	// sendRequest upon button click
 
 	var cancel = document.getElementById("Cancel");
