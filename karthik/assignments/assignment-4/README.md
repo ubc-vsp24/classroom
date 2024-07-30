@@ -9,7 +9,7 @@ In this assignment, you will remove the hardcoded list of images from your code,
 
 ## Tasks
 
-1. For this task, you do not need to change the code which displays images in the grid. Add code to send a GET HTTP request to `https://people.ece.ubc.ca/kumseok/vsp23/images` endpoint which returns a list of image URLs. **Print this list of URLs to the console.**
+1. For this task, you do not need to change the code which displays images in the grid. Add code to send a GET HTTP request to `https://raw.githubusercontent.com/ubc-vsp24/ubc-vsp24.github.io/main/images` endpoint which returns a list of image URLs. **Print this list of URLs to the console.**
 2. For this task, you will **use the list of image URLs downloaded (via AJAX) in the previous task** to display them in the grid.
 
 ## Marking
