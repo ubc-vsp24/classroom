@@ -11,8 +11,7 @@
     8. [ECMAScript 2015 (ES6)](./lectures/lecture7.pdf)
     9. [Promise](./lectures/lecture8.pdf)
     10. [Session and Cookie](./lectures/)
-    11. [Node.js](./lectures/)
-    12. [Review](./lectures/)
+    11. [Review](./lectures/)
 * [Tutorials](./tutorials) - additional tutorials that might be useful
     * [Setting up Git](./tutorials/git-setup.md)
 * [Assignment Group Registration](https://forms.gle/89FST5ZZXqrcUZHfA) - submit your groups here
