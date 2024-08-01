@@ -7,11 +7,11 @@
     4. [Callback and Closure](./lectures/lecture3.pdf)
     5. [DOM and Events (Part 1)](./lectures/lecture4.pdf)
     6. [DOM and Events (Part 2)](./lectures/lecture5.pdf)
-    7. [AJAX and REST API](./lectures/lecture6.pdf)
+    7. [AJAX](./lectures/lecture6.pdf)
     8. [ECMAScript 2015 (ES6)](./lectures/lecture7.pdf)
     9. [Promise](./lectures/lecture8.pdf)
     10. [Session and Cookie](./lectures/lecture9.pdf)
-    11. [Review](./lectures/)
+    11. [Review](./lectures/review.pdf)
 * [Tutorials](./tutorials) - additional tutorials that might be useful
     * [Setting up Git](./tutorials/git-setup.md)
 * [Assignment Group Registration](https://forms.gle/89FST5ZZXqrcUZHfA) - submit your groups here
