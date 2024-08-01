@@ -10,7 +10,7 @@
     7. [AJAX and REST API](./lectures/lecture6.pdf)
     8. [ECMAScript 2015 (ES6)](./lectures/lecture7.pdf)
     9. [Promise](./lectures/lecture8.pdf)
-    10. [Session and Cookie](./lectures/)
+    10. [Session and Cookie](./lectures/lecture9.pdf)
     11. [Review](./lectures/)
 * [Tutorials](./tutorials) - additional tutorials that might be useful
     * [Setting up Git](./tutorials/git-setup.md)
